@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ota-run/ota/8efaf69d3360e043b61a9f5fc7b21f5953029273/docs/assets/ota-icon.svg" alt="ota logo" width="110" height="110" />
+  <img src="https://res.cloudinary.com/ota-run/image/upload/v1781173875/github-dp-2_mrttul.png" alt="ota logo" width="110" height="110" />
   <h1>ota</h1>
   <p><strong>Built for humans, CI, and AI agents, containers, and multi-repo workspaces.</strong></p>
   <p><strong>DOCTOR FIRST. CONTRACT SECOND.</strong></p>

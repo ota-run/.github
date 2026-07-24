@@ -8,7 +8,7 @@
 <!--     instead of guessing from README drift. -->
 <!--   </p> -->
       <p>
-        <img src="https://ota.run/brand/ota-github-social-card.png" alt="ota social card" width="100%" />
+        <img src="https://res.cloudinary.com/ota-run/image/upload/v1784886254/ota-social-cover.png" alt="ota social card" width="100%" />
       </p>
   <p>
     <a href="https://github.com/ota-run/ota/actions/workflows/release-gate.yml"><img src="https://img.shields.io/github/actions/workflow/status/ota-run/ota/release-gate.yml?branch=main&style=for-the-badge&label=release%20gate&labelColor=111827&logo=githubactions" alt="Release gate status" /></a>

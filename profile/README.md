@@ -1,8 +1,9 @@
 <div align="center">
   <img src="https://res.cloudinary.com/ota-run/image/upload/q_auto/dpr_auto/63eb48c4-6148-40a0-8164-34505504414e.png" alt="ota logo" width="120" height="120" />
   <h1>ota</h1>
-  <p><strong>Built for humans, CI, and AI agents, containers, and multi-repo workspaces.</strong></p>
-  <p><strong>DOCTOR FIRST. CONTRACT SECOND.</strong></p>
+  <h2><strong>The execution contract for AI agents.</strong></h2>
+  <p>One explicit contract for repository readiness, verification, execution, and proof, shared with humans and CI.</p>
+  <h3><strong>DOCTOR FIRST. CONTRACT SECOND.</strong></h3>
 <!--   <p> -->
 <!--     Give every repo one explicit contract for diagnosis, setup, execution, and safe automation -->
 <!--     instead of guessing from README drift. -->
